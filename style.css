@@ -1,0 +1,55 @@
+body{
+	background-color: pink
+}
+h1{
+	color: darkblue;
+	text-align: center;
+	font-size: 70px
+}
+#flower{
+	text-align: right;
+
+}
+p{
+	color: darkblue;
+	font-size: 30px
+}
+#plants{
+	color: red
+
+}
+ol{
+	list-style-type:decimal;
+}
+li{
+	color: blue;
+	font-size: 20px
+}
+ul{
+	list-style-type: circle;
+}
+#vodorosty{
+	text-align: center;
+
+}
+#book{
+	list-style-type: upper-roman;
+}
+#red_book{
+	color: red;
+	font-size: 50px
+}
+#mushrooms{
+	text-align: center;
+}
+li{
+	font-size: 40px
+}
+#plants{
+	font-size: 50px
+}
+#znux{
+	color: red
+}
+
+
